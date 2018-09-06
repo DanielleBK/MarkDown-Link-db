@@ -1,0 +1,22 @@
+{
+  "name": "markdown-link-db",
+  "version": "1.0.0",
+  "description": "MarkDown",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielleBK/MarkDown-Link-db.git"
+  },
+  "author": "Danielle BK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielleBK/MarkDown-Link-db/issues"
+  },
+  "homepage": "https://github.com/DanielleBK/MarkDown-Link-db#readme"
+}
